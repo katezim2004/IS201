@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.name{
+    font-size: medium;
+    font-family: cursive;
+}
+
+.gap{
+    margin-bottom:20px;
+    color:rgb(182, 132, 230)
+}
+
+.font{
+    font-family:monospace;
+}
